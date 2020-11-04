@@ -1,0 +1,15 @@
+
+.img-size{
+    height: 200px;
+    width: 300px;
+}
+.img-size:hover {
+    opacity: .7;
+}
+.img-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+.content{
+    padding: 10px
+}

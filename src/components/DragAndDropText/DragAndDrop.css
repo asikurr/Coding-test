@@ -1,0 +1,17 @@
+.main-container{
+    display: flex;
+    
+}
+
+.characters{
+    list-style: none;
+    position: absolute;
+    top: 200px;
+    left: 130px;
+}
+.dragItem{
+    padding: .5rem 1.5rem;
+    border: 2px dashed #954;
+    width: 10rem;
+    margin: .5rem 0;
+}

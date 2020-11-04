@@ -1,0 +1,19 @@
+.contact-section {
+     background:linear-gradient(90deg, rgba(0, 241, 221, 1), rgba(28, 216, 201, .5))
+}
+
+.contact-heading {
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 43px;
+    letter-spacing: 0.396px;
+    color: #2D2D2D;
+}
+
+.contact-description {
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: 0.396px;
+    color: rgba(0, 0, 0, 0.7);
+}

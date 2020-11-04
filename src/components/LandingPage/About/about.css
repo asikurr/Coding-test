@@ -1,0 +1,21 @@
+.about__img{
+    width: 100%;
+}
+.about__content{
+
+}
+.underLine{
+    width: 10rem;
+    border-bottom: 3px solid #1CD8C9;
+    margin: 1rem 0rem;
+    height: 0px;
+}
+.about__text1{
+    line-height:1.5;
+    font-size:1.2rem
+}
+.about__text2 {
+    line-height: 1.5;
+    font-size: 1rem;
+    color: rgb(122, 116, 116);
+}
